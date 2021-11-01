@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KilM1vJZ9uJnnEacsYJwuO5X8hpaSASFqyRczsoO8Y8h3I8ybkttR7V7AkusqETAR6rPCwfBhBNtjgFZBLv4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camil\\source\\repos\\CloudinaryNet\\CloudinaryNet\\CloudinaryNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\cloudinarydotnet\\1.10.0\\cloudinarydotnet.1.10.0.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
